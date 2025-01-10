@@ -90,7 +90,7 @@ router.post('/submit', validateFormData, (req, res) => {
                               console.error('Error inserting record:', err);
                               return res.status(500).send('Internal Server Error');
                           }
-                          res.redirect(`./Views on Operating Drone at Marina Square.pdf`);
+                          res.redirect(`https://mail.airforce.lk`);
                       });
                               
         
